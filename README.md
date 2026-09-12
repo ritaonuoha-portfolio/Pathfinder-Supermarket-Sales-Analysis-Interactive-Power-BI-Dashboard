@@ -100,8 +100,7 @@ Electronics recorded the highest quantity sold at approximately 7.1K units, foll
 - Dashboard Development
 
 ## Dashboard Preview
-
-![Pathfinder Supermarket Sales Dashboard](Dashboard/Pathfinder_Supermarket_Dashboard.png)
+(https://github.com/ritaonuoha-portfolio/Pathfinder-Supermarket-Sales-Analysis-Interactive-Power-BI-Dashboard/blob/main/pathfinder%20dashboard.jpeg)
 
 ## Conclusion
 
